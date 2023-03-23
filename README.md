@@ -10,13 +10,13 @@ What do I mean by fertility?
 Fertility rate is the average number of children born to a woman over her lifetime.
 
 Top fertile countries are:
-1. Israel
-2. Mexico
-3. Iceland
+-  Israel
+- Mexico
+- Iceland
 
 Least fertile countries are:
-33. Spain
-34. Hungary
-35. Korea
+- Spain
+- Hungary
+- Korea
 
 ![World Map of Fertility Rate in OECD Countries](fertility_rate_oecd.png)
